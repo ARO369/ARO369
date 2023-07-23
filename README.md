@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aaradhyapathak/](https://www.linkedin.com/in/aaradhyapathak/)
 
-- 💬 Ask me about **Kivy Python**
+- 💬 Ask me about **JavaScript | MERN stack**
 
 - 📫 How to reach me **aaradhyapathakofficial@gmail.com**
 
