@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web apps**
 
-- 🌱 I’m currently learning **JavaScript , ReactJs**
+- 🌱 I’m currently learning **JavaScript , React Js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aaradhyapathak/](https://www.linkedin.com/in/aaradhyapathak/)
 
