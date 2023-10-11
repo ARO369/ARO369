@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaradhya D. Pathak</h1>
-<h3 align="center">I am looking forward to start Business around tech.</h3>
+<h3 align="center">MERN STACK DEVELOPER.</h3>
 <!-- <img align="right" alt="coding" width="100" src="https://media.tenor.com/pfsnQSfR650AAAAd/one-piece.gif"> -->
 
 - 🔭 I’m currently working on **Web apps**
