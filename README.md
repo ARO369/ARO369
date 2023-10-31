@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aaradhya D. Pathak</h1>
-<h3 align="center">MERN STACK DEVELOPER.</h3>
+<h3 align="center">Full-Stack Web Developer | MERN Stack Specialist | CSE 25.</h3>
 <!-- <img align="right" alt="coding" width="100" src="https://media.tenor.com/pfsnQSfR650AAAAd/one-piece.gif"> -->
 
-- 🔭 I’m currently working on **Web apps**
+- 🔭 I’m currently working on **Backend & Database**
 
-- 🌱 I’m currently learning **JavaScript , React Js**
+- 🌱 I’m currently learning **Express js , MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aaradhyapathak/](https://www.linkedin.com/in/aaradhyapathak/)
 
