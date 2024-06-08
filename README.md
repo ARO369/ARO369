@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Web Developer | MERN Stack Specialist | CSE 25.</h3>
 <!-- <img align="right" alt="coding" width="100" src="https://media.tenor.com/pfsnQSfR650AAAAd/one-piece.gif"> -->
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **Web3**
 
-- 🌱 I’m currently learning **React js , Backend**
+- 🌱 I’m currently learning **Solana**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aaradhyapathak/](https://www.linkedin.com/in/aaradhyapathak/)
 
